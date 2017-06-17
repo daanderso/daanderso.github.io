@@ -11,6 +11,9 @@ body {
     background-color: gray;
     clear: left;
     text-align: center;
+    border-width: 5px; 
+	border-color: #5B5B5B; 
+	border-style: solid;
 }
 
 p{
@@ -27,6 +30,12 @@ nav li {
 	margin: 0 1em;
 }
 
+.border { 
+	border-width: 2px; 
+	border-color: gray; 
+	border-style: solid; 
+}
+
 .skills li{	
 	font-family:verdana;
 	font-size:115%;
@@ -38,3 +47,7 @@ nav li {
     background-color: gray;
     clear: left;
     text-align: center;
+    border-width: 5px; 
+	border-color: #5B5B5B; 
+	border-style: solid;
+}
