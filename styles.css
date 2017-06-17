@@ -1,5 +1,8 @@
 body {
     background-color: #D5D8DC;
+    width:1000px;
+     margin: auto;
+
 }
 
 .header{
@@ -11,6 +14,7 @@ body {
 }
 
 p{
+	font-family: verdana;
 	font-size:118%;
 }	
 
@@ -24,16 +28,11 @@ nav li {
 }
 
 .skills li{	
+	font-family:verdana;
 	font-size:115%;
 	/*text-align: center;*/
 	/*display: inline;*/
 	/*padding: 1em;*/
-}
-
-
-.ProjList{
-
-	color:purple;
 }
 
 .footer {
