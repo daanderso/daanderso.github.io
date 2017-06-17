@@ -1,0 +1,44 @@
+body {
+    background-color: #D5D8DC;
+}
+
+.header{
+    padding: 3em;
+    color: white;
+    background-color: gray;
+    clear: left;
+    text-align: center;
+}
+
+p{
+	font-size:118%;
+}	
+
+nav {
+	float: right;
+	margin-top: 15px;
+}
+nav li {
+	display: inline-block;
+	margin: 0 1em;
+}
+
+.skills li{	
+	font-size:115%;
+	/*text-align: center;*/
+	/*display: inline;*/
+	/*padding: 1em;*/
+}
+
+
+.ProjList{
+
+	color:purple;
+}
+
+.footer {
+    padding: 1em;
+    color: white;
+    background-color: gray;
+    clear: left;
+    text-align: center;
