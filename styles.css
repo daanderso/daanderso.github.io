@@ -24,7 +24,7 @@ p{
 
 nav {
 	float: right;
-	margin-top: 11px;
+	margin-top: 9px;
 }
 nav li {
 	display: inline-block;
@@ -37,14 +37,6 @@ nav li {
 	border-style: solid; 
 }
 
-.education {
-	float:right;
-	list-style-type: none;
-	margin-top: 120px;
-	margin-right: 150px;
-	font-family:verdana;
-	
-}
 
 .skills li{	
 	display: inline-block;
